@@ -7,6 +7,6 @@
 
 - Linux资深爱好者
 > 最喜欢的发行版是Debian和Arch，工作用的是Arch，服务器上喜欢Debian
-> 
+![image](https://raw.githubusercontent.com/githubhxd1995/githubhxd1995/main/Arch_neofetch.bmp)
 
   
